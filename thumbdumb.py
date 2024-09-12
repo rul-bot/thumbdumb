@@ -54,7 +54,6 @@ while True:
 
     print(result, " ", (ex2+ey2), " ", (ex3+ey3), " ", (ex4+ey4))
 
-    #print(result, " ", 2*result, " ", 3*result, " ", 4*result)
-
+    
     #thumbdumb calculator
 
