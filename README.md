@@ -1,1 +1,1 @@
-This is a piece of code that was done a great while ago, aiming to solve a very specific problem of a very specific situation. It was one of the first piece of software made by me and capable of solving a real "problem" i had. I'm keeping it archived just as an old memory.
+This is a piece of code that was done a great while ago, aiming to solve a very specific problem of a very specific situation. It was one of the first pieces of software made by me and capable of solving a real "problem" i had. I'm keeping it archived just as an old memory.
